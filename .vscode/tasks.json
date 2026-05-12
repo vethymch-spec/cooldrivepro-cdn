@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Open Gallery Preview",
+      "type": "Live Preview",
+      "workspacePath": "index.html",
+      "presentation": {
+        "reveal": "never"
+      }
+    }
+  ]
+}
